@@ -2,7 +2,7 @@ Un#EXTM3U
 
 #EXTINF: -1, xxx
 https://dm-h.phncdn.com:443/hls/videos/202303/22/427938151/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_427938151.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1683265784&l=0&ipa=38.25.18.253&hash=eb428bf72b8505570ed35972603c1da1
-#EXTINF: -1, tvg-logo="https://i.postimg.cc/DZtC5FJn/206565.png", EL NIÑO Y LA BESTIA 
+#EXTINF: -1, tvg-logo="https://i.postimg.cc/sfTPV3DX/206565-3.png", EL NIÑO Y LA BESTIA 
 https://ia601608.us.archive.org/4/items/3l-n-1n-1o-1-b-3st-1/3l%20n1n1o%20%26%201%40%20b3st1%40.mkv
 #EXTINF: -1, MOLLY LITTLE 2
 https://dash-s2-n10-nl-cdn.eporner.com/hls/srv2/8179524-720p.mp4/index-v1-a1.m3u8?hash=N1MxvjX2xy2_xXVjJ7yTaw&expires=1683453157&ip=38.25.18.253&id=8179524
