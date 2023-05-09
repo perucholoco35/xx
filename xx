@@ -4,7 +4,7 @@ Un#EXTM3U
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Xv3PFVM5/Air-Brush-20230509153717.jpg", EL NIÑO Y LA BESTIA 
 https://ia601608.us.archive.org/4/items/3l-n-1n-1o-1-b-3st-1/3l%20n1n1o%20%26%201%40%20b3st1%40.mkv
-#EXTINF: -1, EL PRÍNCIPE DE EGIPTO 
+#EXTINF: -1, tvg-logo="https://i.postimg.cc/L6GzkWL3/Air-Brush-20230509184505.jpg", EL PRÍNCIPE DE EGIPTO 
 https://ia902602.us.archive.org/19/items/3l-pr-1nc-1p-3-d-3-3g-1pt-0/3l%20P%C2%AE1nc1p3%20d3%203g1pt0%20.mkv
 #EXTINF: -1, 
 
