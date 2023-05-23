@@ -332,3 +332,5 @@ https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
 #EXTINF: -1, RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF: -1, RADIO EXITOSA 
+https://cpliv3.onliv3.com/stream/radioexitosa
