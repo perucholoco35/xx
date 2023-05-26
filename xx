@@ -62,6 +62,9 @@ https://ia902602.us.archive.org/5/items/b-1t-0-2/b%401t0%202%20.mkv
 https://ia902602.us.archive.org/5/items/b-1t-0-2/b%401t0%203.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/RFKKRQGx/image.jpg", 101 DALMATAS
 https://ia902606.us.archive.org/21/items/ioi-d-1mats-1/ioi%20d%401mat%40s%201.mkv
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xd82xztt/image.jpg", SPIDERMAN, UN NUEVO UNIVERSO 
+
 #EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/VNT2M1ZH/image.jpg", ALICIA EN EL PAIS DE LAS MARAVILLAS 
 https://ia601600.us.archive.org/13/items/alicia-en-el-pais-de-las-maravillas_202305/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/Y9vR6WL1/image.jpg", AMOR DE GATA
@@ -289,6 +292,10 @@ https://ia601600.us.archive.org/34/items/v1v0_20230523/v1v0.mkv
 
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/h4mYWKHs/image.jpg", LLUVIA DE HAMBURGUESAS 2
 
+#EXTINF: -1 tvg-logo=" , ESPIAS A ESCONDIDAS
+
+#EXTINF: -1 tvg-logo=" ", EL EXPRESO POLAR 
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SRq1Y7s1/image.jpg", TADEO JONES 1
 https://ia802600.us.archive.org/31/items/td-30-j-0n-3-1/t%40d30%20j0n3%24%201.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/sgRd0wKn/509771.jpg", TOY STORY 
@@ -301,6 +308,10 @@ https://ia902609.us.archive.org/33/items/yoy-extorjpy-3/yoy%20exto%C2%AE%C2%A5%2
 http://elmonkey.us:25461/movie/Victor/Victor/86343.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/BbNq3GGf/image.jpg", EL DRAGÓN DE LA TETERA
 https://ia601607.us.archive.org/2/items/dg-0n-t-3t-3r/d%40g0n%20t3t3%C2%AE%40.mkv
+#EXTINF: -1 tvg-logo=" , EL GATO CON BOTAS 1
+
+#EXTINF: -1 tvg-logo=" , EL GATO CON BOTAS 2
+
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/W42zgjvQ/19541005.jpg", ENREDADOS
 https://ia601606.us.archive.org/25/items/3nr-3dd-0s/3n%C2%AE3d%40d0s.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/9fHXqrKm/image.jpg", LA FAMILIA MITCHELL 
