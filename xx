@@ -258,7 +258,7 @@ http://elmonkey.us:25461/movie/Victor/Victor/90232.mkv
 http://elmonkey.us:25461/movie/Victor/Victor/90230.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/GtSqgHpC/image.jpg", LA ERA DEL HIELO 5
 http://elmonkey.us:25461/movie/Victor/Victor/86415.mkv
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/RZLcyzzy/5907148.jpg", FERDINAND 
+#EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/RZLcyzzy/5907148.jpg", FERDINAND 
 https://ia802601.us.archive.org/10/items/f3d1nnd/f3%CF%80d1n%40nd.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/5NzkXSGT/image.jpg", LOS TIPOS MALOS
 https://ia902607.us.archive.org/11/items/10-t-1p-0-ml-0s/10%24%20t1p0%24%20m%40l0s.mkv
@@ -274,7 +274,7 @@ https://ia601601.us.archive.org/20/items/mdgcr-1/m%40d%40g%40%24c%40r%201.mkv
 https://ia902603.us.archive.org/17/items/md-4acar-2/m%40d4%E2%82%B2a%24car%202.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/J0n5VMy5/image.jpg", MADAGASCAR 3
 https://ia601601.us.archive.org/17/items/mdacr-3/m%40d%40%C2%B6a%24%C2%A9%40%C2%AE%203.mkv
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0gN1sQk/image.jpg", LO QUE EL AGUA SE LLEVÓ 
+#EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/R0gN1sQk/image.jpg", LO QUE EL AGUA SE LLEVÓ 
 
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/FKVXR5pL/image.jpg", CROODS
 https://ia902609.us.archive.org/2/items/10s-cr-00d-1/10s%20c%C2%AE00d%24%201.mkv
