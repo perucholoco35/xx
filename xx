@@ -20,7 +20,7 @@ https://ia902604.us.archive.org/27/items/t-13rr-4-d-3-0s-0/t13%C2%AE%C2%AE4%20d3
 https://ia601606.us.archive.org/21/items/vcs-vq-3rs/V%40c%40s%20v%40q%E2%88%9A3%C2%AE%40s.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/0j7Nc3tH/MV5-BNGYy-Nm-I3-M2-Yt-Nz-Yz-ZS00-OTVi-LTkx-Yj-At-ZDIy-Zm-E1-Y2-U1-Zm-Q2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0-Nj-Ey-V1.jpg",  YOUR NAME
 https://ia601603.us.archive.org/34/items/y-0ur-mm-3/y0u%C2%AE%20%CF%80%40m3.mkv
-#EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="", KIKI ENTREGA A DOMICILIO 
+#EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/y82vGCwm/image.jpg", KIKI ENTREGA A DOMICILIO 
 
 #EXTINF: -1 group-title="PELÍCULAS EN 2D" tvg-logo="https://i.postimg.cc/pVDnvWMS/121507.jpg", VIAJE AGHARTA
 https://ia902608.us.archive.org/25/items/1aj-3-grth/%E2%88%9A1aj3%20%40g%40rth%40.mkv
@@ -212,7 +212,7 @@ https://ia902602.us.archive.org/28/items/1nb-0/%401nb0%20.mkv
 https://ia601604.us.archive.org/18/items/c-0c-0_202305/%C2%A90%C2%A90.mkv
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/R0HG59n3/MV5-BOTJh-Nzlm-Nzct-NTU5-Yy00-N2-Yw-LThh-Mj-Qt-ZDM0-Yj-Ez-N2-Y0-Zj-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEw-MTQ4-Mz-U5-V1-FMjpg-UX1000.jpg", SUPER MARIO BROS
 https://ia902607.us.archive.org/20/items/mi0_20230518/m%40i0.mkv
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/2jB8pQbn/image.jpg", MONSTER HOUSE
+#EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/2jB8pQbn/image.jpg", MONSTER HOUSE
 
 #EXTINF: -1 group-title="PELÍCULAS EN 3D"tvg-logo="https://i.postimg.cc/d0mnrC3y/Momias-757383438-large.jpg", MOMIAS
 https://ia902607.us.archive.org/17/items/w0w1_20230524/w0w1%40%24.mkv
