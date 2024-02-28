@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX mio
+#EXTINF:-1 group-title="Deportes",tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX mio
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147033
 
-#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op2
+#EXTINF:-1 group-title="Deportes",tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op2
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147034
 
-#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op3
+#EXTINF:-1 group-title="Deportes",tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op3
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147037
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147026 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/CKdCd32T/images-14-24.png", MOVISTAR DEPORTES mio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKdCd32T/images-14-24.png", MOVISTAR DEPORTES mio
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/551
 
