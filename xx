@@ -393,6 +393,19 @@ http://iptves.live:8080/plexserver/7wkxn6N9AS/215325.ts
 #EXTINF:-1, espn 3
 http://novared.pro:8080/EmeraDF/MeraEL1606/251025
 
+
+#EXTINF: -1 group-title="TWITCH"tvg-logo="https://i.postimg.cc/PJFGn30x/7adedaa6-c621-4641-9d9e-ea98d95c729a-profile-image-300x300.png", EL ZEEIN
+
+#EXTINF: -1 group-title="TWITCH"tvg-logo="
+
+#EXTINF: -1 group-title="TWITCH"tvg-logo="
+
+#EXTINF: -1 group-title="TWITCH"tvg-logo="
+
+#EXTINF: -1 group-title="TWITCH"tvg-logo="
+
+
+
 #EXTINF:-1 group-title="PELÍCULAS EN 2D"tvg-logo="https://i.postimg.cc/2Scy3Dxp/image.jpg", EL REY LEÓN
 https://drive.usercontent.google.com/download?id=19MQTJ7oPQT0QPZ8S3D3OducHZzorbXfB&export=download&authuser=2&confirm=t&uuid=f86ee0c8-ba96-4814-9aaa-d3bde65a88b7&at=APZUnTXnPAhwyjRc5Q5bfV-IQ8xS:1700806286147.mkv
 #EXTINF:-1 group-title="PELÍCULAS EN 2D"tvg-logo="https://i.postimg.cc/9Qp87x4H/image.jpg", EL REY LEÓN 2
