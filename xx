@@ -12,11 +12,11 @@ https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147034
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147037
 
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
+#EXTINF:-1 tvg-id="GOL PERU"group-title="Deportes"tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/147026 
 
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/CKdCd32T/images-14-24.png", MOVISTAR DEPORTES mio
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES"group-title="Deportes"tvg-logo="https://i.postimg.cc/CKdCd32T/images-14-24.png", MOVISTAR DEPORTES mio
 
 https://fenixplay.info:8443/jonathanquispe/atwntFVsja/551
 
