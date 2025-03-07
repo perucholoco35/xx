@@ -4140,8 +4140,10 @@ https://vadp.pricesaskeloadsc.com:443/golperu/tracks-v1a1/mono.m3u8?token=71af3f
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op3
-
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMkhDM2E2NmFWOhhTLhVDO40CZ3EDNtMWY2QWLhJDNzITMmVzL.m3u8
+
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", TUDN futbollibreshd
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8?md5=5voKFEFkwNsDqclTgwYoug&expires=1741351662
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Y0rYKkGs/images-25-37.png", SK fight salvi
 
@@ -4440,9 +4442,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
 http://41540568432165418.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/165418.ts
 
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", TUDN
 
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", TUDN livepop
 
