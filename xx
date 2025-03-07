@@ -4148,8 +4148,10 @@ https://hestia2.cdnstream.com/1301_128
 
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX mio
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZxYmZhN2YhF2NmNWLyUGO40yN5IGNtUTM0MTL1EWY5gjM1Y2L.m3u8 
 
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMkhDM2E2NmFWOhhTLhVDO40CZ3EDNtMWY2QWLhJDNzITMmVzL.m3u8
+#EXTINF:-1 tvg-id="GOL PERU"group-title="Deportes"tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZhhzMlVmN3EzM5cTL2I2Mi1COxEDNtgTZkNWL4czYjBzMxU2L.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op2
 
@@ -4157,10 +4159,9 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op3
 
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZxYmZhN2YhF2NmNWLyUGO40yN5IGNtUTM0MTL1EWY5gjM1Y2L.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMkhDM2E2NmFWOhhTLhVDO40CZ3EDNtMWY2QWLhJDNzITMmVzL.m3u8
 
-#EXTINF:-1 tvg-id="GOL PERU"group-title="Deportes"tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU mio
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZhhzMlVmN3EzM5cTL2I2Mi1COxEDNtgTZkNWL4czYjBzMxU2L.m3u8
+
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Y0rYKkGs/images-25-37.png", SK fight salvi
 
