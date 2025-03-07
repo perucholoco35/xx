@@ -4136,7 +4136,6 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0
 https://vadp.pricesaskeloadsc.com:443/golperu/tracks-v1a1/mono.m3u8?token=71af3f209e87dbe61b0dfd6c346a1bb8c48c5d37-53-1741361268-1741328868
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op2
-
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png", LIGA1 MAX op3
@@ -4147,6 +4146,9 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Rhy0XvJ7/images-2-17-24.png", SPORT TV 1 port futbollibreshd
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MzBjYWIzYzg0YWVkLWY4ZjktMjZkNC02MmY2LTVlNGEyNjA3/master.m3u8?md5=C-Fo8dS-NwrruHbueOQZGw&expires=1741352548
+
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/pT3GzYNX/images-17-10-37.png", GOL TV 
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWM2MThkNjM2Njk0LTllMGEtZjMxNC0wYzhhLTIzOTM1NjE2/master.m3u8?md5=bC6euFaoaQFg52xBzpurDg&expires=1741353278
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/Y0rYKkGs/images-25-37.png", SK fight salvi
 
@@ -4188,9 +4190,7 @@ http://fortv.cc:8080/Thomas21/21Thomas/9806
 
 http://806562284646787333.ofd0216.xyz:80/play/Salvichiri/Chiri12345678/787333.ts
 
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/pT3GzYNX/images-17-10-37.png", GOL TV ECU hplay
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/ZRWsWsMM/images-16-10-37.png", NFL NETWORK hplay
 
