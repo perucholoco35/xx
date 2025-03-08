@@ -4524,7 +4524,9 @@ http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", CANAL 5 MX
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", ATV PERÚ 
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUH72SLqJisgnbcVuJbZmNLFErzN3naZXupw&usqp=CAU", LATINA TV
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2186035399067cccf63664e5
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bP9BOq6LgCwj1jAsYdAiBxgT1Ch_kuw0Og-ESZWiBGF5hvOsHuhe5Fc4&s=10", ATV PERÚ 
 https://d19e55ehz2il4i.cloudfront.net:443/original.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
