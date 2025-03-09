@@ -4539,6 +4539,8 @@ https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a630152602
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2186035399067cccf63664e5
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bP9BOq6LgCwj1jAsYdAiBxgT1Ch_kuw0Og-ESZWiBGF5hvOsHuhe5Fc4&s=10", ATV PERÚ 
 https://d19e55ehz2il4i.cloudfront.net:443/original.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0EA91ALE_cP6GrqmAvGTRcFTMU49Jf5mOdNv66568QdOKhbskUfVj8w&s=10", PLANETA TV HD
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", DW ALEMANIA 
