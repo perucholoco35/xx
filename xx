@@ -4533,14 +4533,16 @@ https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239114
 http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", NATGEO WILD
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", CANAL 5 MX
-https://us-b4-p-eM0PU34GOGNi4l5Ptr9t71V80S3d&pid=0KHDss3Se0xl8o9r6hg3OM44cMapWNkP&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=QrBKev6
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4JX77s3SgPWOm1DoGX7OiC4zC41ZEszzOw&usqp=CAU", A&E ingles
+https://tvpass.org/live/AEEast/hd
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=fJYMESwJexCZcOOV3OgPHopdu_biB-yWS2_124nVNLtoiDiL5LorFXPiGhXBrjdQhiparLtwYP3k5w7EzHPHSA4q2fRC-3EwoxHzfs2HaRs&dmTs=885065&dmV1st=ca9d4567-79e3-4f97-8470-644f355ee8db
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUH72SLqJisgnbcVuJbZmNLFErzN3naZXupw&usqp=CAU", LATINA TV
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2186035399067cccf63664e5
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bP9BOq6LgCwj1jAsYdAiBxgT1Ch_kuw0Og-ESZWiBGF5hvOsHuhe5Fc4&s=10", ATV PERÚ 
 https://d19e55ehz2il4i.cloudfront.net:443/original.m3u8
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOw0WSeql_FkvL7kkO81ZGNhijMUQwBoPtDtlsUvtrWj67j60DxNEdff6&s=10", NATIVA TV
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0EA91ALE_cP6GrqmAvGTRcFTMU49Jf5mOdNv66568QdOKhbskUfVj8w&s=10", PLANETA TV HD
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", ATV ARABE
