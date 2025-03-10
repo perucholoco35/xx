@@ -4549,8 +4549,8 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", COOKING CHANNEL 
-https://tvup01.edge.milloh-cs.com/historia/historia.mpd
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_llH_UbCwbx2MEaXxE4-8ATzJ5qlhRg5NNbg2sYCYM5zQ=s900-c-k-c0x00ffffff-no-rj", PLANETE+
+http://178.219.128.68:64889/PLANHD
 #EXTINF:-1, HBO 
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239085
 #EXTINF:-1, HBO FAMILY
