@@ -4547,8 +4547,8 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", DW ALEMANIA ESP
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", JJ
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", RT
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", COOKING CHANNEL 
 https://tvup01.edge.milloh-cs.com/historia/historia.mpd
 #EXTINF:-1, HBO 
