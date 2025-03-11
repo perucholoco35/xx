@@ -4535,7 +4535,9 @@ http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4JX77s3SgPWOm1DoGX7OiC4zC41ZEszzOw&usqp=CAU", A&E ingles
 https://tvpass.org/live/AEEast/hd
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4hH-2xNp5SQU_p6LkVEX3x4tvWPULTlONw&usqp=CAU",  DISCOVERY KIDS
+http://5startv.xyz:8080/live/jZl8bSpSVD/awIu6W4l8x/115084.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=fJYMESwJexCZcOOV3OgPHopdu_biB-yWS2_124nVNLtoiDiL5LorFXPiGhXBrjdQhiparLtwYP3k5w7EzHPHSA4q2fRC-3EwoxHzfs2HaRs&dmTs=885065&dmV1st=ca9d4567-79e3-4f97-8470-644f355ee8db
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUH72SLqJisgnbcVuJbZmNLFErzN3naZXupw&usqp=CAU", LATINA TV
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2186035399067cccf63664e5
