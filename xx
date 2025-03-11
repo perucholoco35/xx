@@ -4551,6 +4551,8 @@ http://5startv.xyz:8080/live/jZl8bSpSVD/awIu6W4l8x/115084.ts
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=fJYMESwJexCZcOOV3OgPHopdu_biB-yWS2_124nVNLtoiDiL5LorFXPiGhXBrjdQhiparLtwYP3k5w7EzHPHSA4q2fRC-3EwoxHzfs2HaRs&dmTs=885065&dmV1st=ca9d4567-79e3-4f97-8470-644f355ee8db
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUH72SLqJisgnbcVuJbZmNLFErzN3naZXupw&usqp=CAU", LATINA TV
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2186035399067cccf63664e5
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_V8ncefTeCw_6F1z94ILKJCtoWbL8OcmCOJ5E1wftaoLaD0ojLX8_bD3p&s=10", TV PERU
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bP9BOq6LgCwj1jAsYdAiBxgT1Ch_kuw0Og-ESZWiBGF5hvOsHuhe5Fc4&s=10", ATV PERÚ 
 https://d19e55ehz2il4i.cloudfront.net:443/original.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOw0WSeql_FkvL7kkO81ZGNhijMUQwBoPtDtlsUvtrWj67j60DxNEdff6&s=10", NATIVA TV
