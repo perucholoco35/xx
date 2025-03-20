@@ -4585,7 +4585,9 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8?uid=3871129
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://thumbnail.anii.io/pe/radio-ovacion-620-am-peru.webp", OVACIÓN
-https://drive.usercontent.google.com/download?id=1cj0pH3NHi6ox2cfbA3U0EqQpMim6SvsE&export=download&authuser=1&confirm=t&uuid=a842e841-b50c-4a18-9c55-b53621925087&at=AEz70l48R0E7vItqQnvg3ECfCEdO:1742318340309
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxz4o8yHT0B9wq40VtBVzTVN1uC4qNxQQZcBK3VXInXT8hAceAcJEOa9o&s=10", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
 https://drive.usercontent.google.com/download?id=1ywSPeJx2As2JFQNhLAvktkUNrghGOU4w&export=download&authuser=6&confirm=t&uuid=949c7120-b577-464b-8def-382b543b37cc&at=AEz70l6sJ0OEQufqJLEnL29tXR-9:1742022854919
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png", ANTENA 3
