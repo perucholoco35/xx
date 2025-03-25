@@ -4717,6 +4717,8 @@ https://sae13.playlist.live-video.net/v1/playlist/CrYFBqh9GovedQ9eTnKajpoUUAl3NZ
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bP9BOq6LgCwj1jAsYdAiBxgT1Ch_kuw0Og-ESZWiBGF5hvOsHuhe5Fc4&s=10", ATV PERÚ 
 https://d19e55ehz2il4i.cloudfront.net:443/original.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPsRQU9SVADXBdaZ57L-d92b6jdPgBIbWZZHSX7SV4XUlywfvCOAlwo92&s=10", TRIVU TV
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOw0WSeql_FkvL7kkO81ZGNhijMUQwBoPtDtlsUvtrWj67j60DxNEdff6&s=10", NATIVA TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0EA91ALE_cP6GrqmAvGTRcFTMU49Jf5mOdNv66568QdOKhbskUfVj8w&s=10", PLANETA TV HD
