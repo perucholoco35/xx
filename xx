@@ -4731,6 +4731,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://live-b2.cf.dmcdn.net/sec2(EERpvE0Z8QMD_cSlIcaZvYL8yRmOHEv3_j7dEVslQ9YbwzZ6Kh5O-nvyaerFTLf2_BapXsK6ZvrwguvxkHhjCr9AqMzupGGtaT3bvnsXwQUriC2QlHs-vfqrycI1TXls)/cloud/3/x7x4dgx/s/live-720.m3u8#cell=lcfb2
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png", ANTENA 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZAhV2aLhNycLzUULIvf-Dz4tePHoSL1RcpoynMRNKyYA30M6D3Jf5CJG&s=10", OXIGENOTV 
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-cFWvGldNT5MdcqVsJ7qktSuc2YYLCii9w&s", AZTECA TV
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", DW ALEMANIA ESP
