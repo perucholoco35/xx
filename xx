@@ -4789,6 +4789,8 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-cFWvGldNT5MdcqVsJ7qktSuc2YYLCii9w&s", AZTECA TV
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8VLHDrYph4uNo9Hi8pwZDTTqKiVbSnyJE6z_mqysWAMxp2aeH3AYc-6n&s=10", TV PÚBLICA 
+https://g3.mc-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", DW ALEMANIA ESP
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj", CGTN EN ESPAÑOL 
