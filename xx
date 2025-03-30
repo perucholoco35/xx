@@ -4574,7 +4574,7 @@ https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=ys
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes", beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/52/12/c6521293a214c420a7a61d9bff924234.jpg" tvg-id="no_epg_sport" group-title="Deportes", Turbo Sports Network
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.pinimg.com/736x/c6/52/12/c6521293a214c420a7a61d9bff924234.jpg" tvg-id="no_epg_sport" group-title="Deportes", Turbo Sports Network
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Deportes",Swerve Sports
@@ -4769,26 +4769,6 @@ http://806562284646781487.ofd0216.xyz:80/play/Salvichiri/Chiri12345678/781487.ts
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/KzFrqtvq/images-18.png", SKY SPORT CRICKET salvi
 
 http://634399784308766765.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/766765.ts
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU", ANIMAL PLANET
-http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/403.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY Channel 5startv
-http://5startv.xyz:8080/live/JoeR25/Remwolt/120097.ts
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY Channel 4K
-https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COwMDN4UWZ3AjZkFWL0YmNh1iZmhDNtEzMhlTLzQTOwcDZmJzL.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
-http://91.146.94.234:10000/play/a041
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTk-QKz4wZq37hguAp9l6JrDDCGCurZBA3g&usqp=CAU", HISTORY CHANNEL 
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHEfVZ4dysfDdqbBYD5qTqRpnVDEoqBiUGw&usqp=CAU", NATGEO higherpro
-http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/441.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHEfVZ4dysfDdqbBYD5qTqRpnVDEoqBiUGw&usqp=CAU", NATGEO 5startv
-http://5startv.xyz:8080/live/JoeR25/Remwolt/115126.ts
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", NATGEO WILD 5startv
-http://5startv.xyz:8080/live/jZl8bSpSVD/awIu6W4l8x/120142.ts
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", NATGEO WILD higherpro
-http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/12444.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4JX77s3SgPWOm1DoGX7OiC4zC41ZEszzOw&usqp=CAU", A&E ingles 5startv
-http://5startv.xyz:8080/live/JoeR25/Remwolt/120069.ts
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm9F8e5CXvbX0RqEsUvbKhUndy42NMzYlAmucIC1TBquyjyVZogHjeKb6&s=10", EXITOSA
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
@@ -4813,6 +4793,29 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8?uid=3871129
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://thumbnail.anii.io/pe/radio-ovacion-620-am-peru.webp", OVACIÓN
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU", ANIMAL PLANET
+http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/403.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="ENTRETENIMIENTO", Discovery HD
+http://91.146.94.234:10000/play/a041
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY Channel 5startv
+http://5startv.xyz:8080/live/JoeR25/Remwolt/120097.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY Channel 4K
+https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COwMDN4UWZ3AjZkFWL0YmNh1iZmhDNtEzMhlTLzQTOwcDZmJzL.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="ENTRETENIMIENTO", Discovery HD
+http://91.146.94.234:10000/play/a041
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTk-QKz4wZq37hguAp9l6JrDDCGCurZBA3g&usqp=CAU", HISTORY CHANNEL 
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHEfVZ4dysfDdqbBYD5qTqRpnVDEoqBiUGw&usqp=CAU", NATGEO higherpro
+http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/441.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHEfVZ4dysfDdqbBYD5qTqRpnVDEoqBiUGw&usqp=CAU", NATGEO 5startv
+http://5startv.xyz:8080/live/JoeR25/Remwolt/115126.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", NATGEO WILD 5startv
+http://5startv.xyz:8080/live/jZl8bSpSVD/awIu6W4l8x/120142.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", NATGEO WILD higherpro
+http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/12444.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4JX77s3SgPWOm1DoGX7OiC4zC41ZEszzOw&usqp=CAU", A&E ingles 5startv
+http://5startv.xyz:8080/live/JoeR25/Remwolt/120069.ts
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxz4o8yHT0B9wq40VtBVzTVN1uC4qNxQQZcBK3VXInXT8hAceAcJEOa9o&s=10", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrfyp5MYeop4kKrXr67yLwYcIxKUgpOqxdvRBKVCIuz7UANhkU3m6pIg&s=10", WILLAX TV
