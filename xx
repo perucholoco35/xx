@@ -4565,6 +4565,21 @@ http://higherpro.xyz:8080/live/jose356890/356890jose/57053.m3u8
 #EXTINF:-1, group-title="Deportes", FOX SPORT PREMIUM TV LIBRE
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yN5EGMxUTZ2AzM3YTLlVWN50CZ3EDNtIDZkhTLwkDN1ITNzkzL.m3u8
 
+#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="Deportes",SuperTennis HD
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-id="sky-sport-f1-it" group-title="DEPORTES", Sky Sport F1 [IT]
+https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=yshz8qKjhGQJw7H4PxE7aw&e=1743325472&scheme=https
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes", beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/52/12/c6521293a214c420a7a61d9bff924234.jpg" tvg-id="no_epg_sport" group-title="Deportes", Turbo Sports Network
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Deportes",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/XYrnKbgq/images-3-17.png", SPORT TV 2 BRA nova
 
 http://novared.pro:8080/EmeraDF/MeraEL1606/170510
@@ -4760,6 +4775,8 @@ http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/403.m3u8
 http://5startv.xyz:8080/live/JoeR25/Remwolt/120097.ts
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY Channel 4K
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COwMDN4UWZ3AjZkFWL0YmNh1iZmhDNtEzMhlTLzQTOwcDZmJzL.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
+http://91.146.94.234:10000/play/a041
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTk-QKz4wZq37hguAp9l6JrDDCGCurZBA3g&usqp=CAU", HISTORY CHANNEL 
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHEfVZ4dysfDdqbBYD5qTqRpnVDEoqBiUGw&usqp=CAU", NATGEO higherpro
