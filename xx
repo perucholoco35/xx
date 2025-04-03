@@ -4901,7 +4901,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_llH_UbCwbx2MEaXxE4-8ATzJ5qlhRg5NNbg2sYCYM5zQ=s900-c-k-c0x00ffffff-no-rj", PLANETE+
 http://178.219.128.68:64889/PLANHD
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVQiCHoJAOp-jXxDgweuszd1sTjdXi0H_WJKWTY0WZEPghNpeWqeH5aE&s=10", LOVE THE PLANET 
-
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv:443/1080p/index.m3u8
 #EXTINF:-1, HBO 
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239085
 #EXTINF:-1, HBO FAMILY
