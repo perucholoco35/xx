@@ -4932,6 +4932,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3375/amlst:mainstream/chunklist_b8596448.m3u8?op_id=0&userId=0&channelId=3375&stime=1743652296&etime=1743738696&token=0bdf8d33128b7a319a2c1&p=livecdn
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png", ANTENA 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReuW4yoTRlAhSXcZ9X8QRegQX-AFr8X2G6hD_-rciLftYtSfU5zPHlvMyK&s=10", RTVD RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w986084434_b3747840.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZAhV2aLhNycLzUULIvf-Dz4tePHoSL1RcpoynMRNKyYA30M6D3Jf5CJG&s=10", OXIGENOTV 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-cFWvGldNT5MdcqVsJ7qktSuc2YYLCii9w&s", AZTECA TV
