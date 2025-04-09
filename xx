@@ -4954,6 +4954,8 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv:443
 https://aegis-cloudfront-1.tubi.video:443/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNen49YIWFywVQFwxzSGsqToW7gH3duiWPh_Z9vNBLTZ6X-sLgSUkBSHGJ&s=10", GUSTO TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/56cc33e2-3cf5-4e50-9cd3-6e447844c04a/4.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeJr-EDnvTMMPiBnzZrFpiZ7T5ZURmKZvxe7HdcF3tp1SqmS4PaJSDdxd&s=10", ALWAYS FUNNY EN ESPAÑOL 
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-en-espanol/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-en-espanol/3de39856-0a62-47b4-bfce-692cd40eb5b6/0.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UyhKcDA19_X1h0-2NOISora7m6MDeak0zA&s", PITUFOS TV
 https://stream.ads.ottera.tv/cl/250409cvqu4495a0qj86oe9c10/1280x720_3071200_0_f.m3u8?i=475_6611
