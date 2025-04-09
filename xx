@@ -26,7 +26,6 @@ https://drive.usercontent.google.com/download?id=1J_5cCHm0TG2T8XuFyUGxBVFOpQEsUu
 https://drive.usercontent.google.com/download?id=1eH9RooBmrpuaF6XP6fD_00nRUkItTS_n&export=download&authuser=1&confirm=t&uuid=2fe2dab8-eda7-44c8-a93f-1fd79583e09c&at=AEz70l5Lmg3k6LsMMx1cWm97F00k:1741144490838.mkv
 #EXTINF: -1 group-title="PELÍCULAS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUPVQUj0GGqf-4io5R9MldhXwA2YPbJaX4nxJ024rXJowccR4UApEDBI&s=10", WICKED (2024) 9.3gb
 https://drive.usercontent.google.com/download?id=1MRnm_rwc18NIpaFhJ8Ah5JwGp3g5oXST&export=download&authuser=0&confirm=t&uuid=bdd30869-9abe-42ad-8919-68b9fb358c9e&at=AEz70l43Z7T0NFylMzJrsgyqCdWc:1740492443852.mkv
-
 #EXTINF: -1 group-title="PELÍCULAS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0iSwnvPHqlS8aDUa30LQrO0YUCK3Njikm2cirQyRsRABhgRzW9LqfXcR&s=10", JACK FROST (1998) 11gb
 https://drive.usercontent.google.com/download?id=16w0SQaWNsD_7bvuTE0HZeij0C-80PdDX&export=download&authuser=4&confirm=t&uuid=a9dc3997-f3eb-4ae3-9126-af04db80d52c&at=AIrpjvMfY2qp2agwjzKep68C_qU0:1736589335697.mkv
 #EXTINF: -1 group-title="PELÍCULAS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHI9n4jH5ixB4AQXISeY4ny3ATBNPIw6NotrT8de_ZNKeVOSvDbdI4BPV&s=10", GUASON 2 (2024) 9.4gb
@@ -4953,8 +4952,12 @@ http://178.219.128.68:64889/PLANHD
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv:443/1080p/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/SKmCYctR/Love-Nature-1.png", LOVE NATURE
 https://aegis-cloudfront-1.tubi.video:443/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNen49YIWFywVQFwxzSGsqToW7gH3duiWPh_Z9vNBLTZ6X-sLgSUkBSHGJ&s=10", GUSTO TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/56cc33e2-3cf5-4e50-9cd3-6e447844c04a/4.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UyhKcDA19_X1h0-2NOISora7m6MDeak0zA&s", PITUFOS TV
 https://stream.ads.ottera.tv/cl/250409cvqu4495a0qj86oe9c10/1280x720_3071200_0_f.m3u8?i=475_6611
+
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png", ANTARES TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1843071514.m3u8
 
