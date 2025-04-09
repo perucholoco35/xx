@@ -4981,6 +4981,123 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMdvyaVr1sjKNjDA8eXM5ueSHTMfSppzu_Q&usqp=CAU",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/d499fb76-50ee-43e7-afb5-da4b63615b35/2.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Trece Paraguay 
+https://rds3gen.desdeparaguay.net:443/trecetv/trecetv_alta/chunklist_w1187671779.m3u8
+
+#EXTINF: -1  group-title="ENTRETENIMIENTO" tvg-logo="",Golf channel
+https://v1.thetvapp.to:443/hls/GolfChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Trece Paraguay 
+https://rds3gen.desdeparaguay.net:443/trecetv/trecetv_alta/chunklist_w1187671779.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Golf channel
+https://v1.thetvapp.to:443/hls/GolfChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Gordon Ramsey
+https://apollo.production-public.tubi.io:443/live/ac-gordon-ramsey/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=f5317689-a272-462e-8cb9-ee1d05732890&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=00f2bff690d690b5fc7399d5a92a5d6c
+
+#EXTINF: -1  group-title="ENTRETENIMIENTO" tvg-logo="",HD travel tv
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/26ed70e3-56bc-440a-a9b4-313f8a3aab3e/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Heritage+
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/7ce4a485-a0d2-46ae-9a38-83c4db3f6355/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Hoop tv
+https://streams2.sofast.tv:443/WiseM3U8_28/sofast/cleanhls/Hoop_3500k.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Xtrem sport
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/71877f89-5efe-4f74-b194-ee9a52bf35a5/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Xplore
+https://xlpore-samsungus.amagi.tv:443/1080p-vtt/index.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Womens sport network 
+https://apollo.production-public.tubi.io:443/live/ac-fast-studios-womens-sports/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=ec975c2d-390b-4744-a271-af4fae6bb2aa&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=6d5219ffeff218caa567d8f4ff64ec5e
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Wipeout xtra
+https://apollo.production-public.tubi.io:443/live/ac-wipeout-xtra/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=fd1a7e6e-a210-46fc-8679-a31132129973&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=f7095cede534b03e9a4b4ba3616c89f2
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Wild tv
+https://dfhsahpa45kk2.cloudfront.net:443/scheduler/scheduleMaster/476/variant/22100058.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Voyages+
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/d466fa30-57b2-4167-9dd5-59d264af4ccb/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Ufc
+https://aegis-cloudfront-1.tubi.video:443/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1920x1080.m3u8
+
+#EXTINF: -1  group-title="ENTRETENIMIENTO" tvg-logo="",Top chef vault
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com:443/live/master_5.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Tmz
+https://apollo.production-public.tubi.io:443/live/ac-tmz/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=d37c4c4c-4d00-454c-b087-3deab41a76ae&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=4b4591b8d58654844f9764971db05d98
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",The grappling network 
+https://d1vwakhda3vp6p.cloudfront.net:443/scheduler/scheduleMaster/236/variant/22099631.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",The explorers
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/cd448762-8b6a-42da-9b63-d3ca642121b7/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Tastemade
+https://tastemade-xumo.amagi.tv:443/playlist1080p.m3u8
+
+#EXTINF: -1  group-title="ENTRETENIMIENTO" tvg-logo="",Swerve sport
+https://linear-253.frequency.stream:443/dist/glewedtv/253/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Surfing+
+https://dr4jwhk0sty71.cloudfront.net:443/scheduler/scheduleMaster/444/variant/22100101.m3u8" group-title="ENTRETENIMIENTO" tvg-logo="",Gordon Ramsey
+https://apollo.production-public.tubi.io:443/live/ac-gordon-ramsey/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=f5317689-a272-462e-8cb9-ee1d05732890&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=00f2bff690d690b5fc7399d5a92a5d6c
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",HD travel tv
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/26ed70e3-56bc-440a-a9b4-313f8a3aab3e/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Heritage+
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/7ce4a485-a0d2-46ae-9a38-83c4db3f6355/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Hoop tv
+https://streams2.sofast.tv:443/WiseM3U8_28/sofast/cleanhls/Hoop_3500k.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Xtrem sport
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/71877f89-5efe-4f74-b194-ee9a52bf35a5/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Xplore
+https://xlpore-samsungus.amagi.tv:443/1080p-vtt/index.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Womens sport network 
+https://apollo.production-public.tubi.io:443/live/ac-fast-studios-womens-sports/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=ec975c2d-390b-4744-a271-af4fae6bb2aa&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=6d5219ffeff218caa567d8f4ff64ec5e
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Wipeout xtra
+https://apollo.production-public.tubi.io:443/live/ac-wipeout-xtra/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=fd1a7e6e-a210-46fc-8679-a31132129973&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=f7095cede534b03e9a4b4ba3616c89f2
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Wild tv
+https://dfhsahpa45kk2.cloudfront.net:443/scheduler/scheduleMaster/476/variant/22100058.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Voyages+
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/d466fa30-57b2-4167-9dd5-59d264af4ccb/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Ufc
+https://aegis-cloudfront-1.tubi.video:443/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Top chef vault
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com:443/live/master_5.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Tmz
+https://apollo.production-public.tubi.io:443/live/ac-tmz/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=d37c4c4c-4d00-454c-b087-3deab41a76ae&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=4b4591b8d58654844f9764971db05d98
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",The grappling network 
+https://d1vwakhda3vp6p.cloudfront.net:443/scheduler/scheduleMaster/236/variant/22099631.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",The explorers
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/cd448762-8b6a-42da-9b63-d3ca642121b7/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Tastemade
+https://tastemade-xumo.amagi.tv:443/playlist1080p.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Swerve sport
+https://linear-253.frequency.stream:443/dist/glewedtv/253/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="",Surfing+
+https://dr4jwhk0sty71.cloudfront.net:443/scheduler/scheduleMaster/444/variant/22100101.m3u8
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="",BOX GAME
 https://cce.noisypeak.com:443/hls/MU2JNNY/5FEEAC56B515/m.m3u8
 #EXTINF: -1 group-title="STREAMING"tvg-logo="https://i.postimg.cc/PJFGn30x/7adedaa6-c621-4641-9d9e-ea98d95c729a-profile-image-300x300.png", EL ZEEIN
