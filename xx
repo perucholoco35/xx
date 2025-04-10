@@ -4983,6 +4983,26 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMdvyaVr1sjKNjDA8eXM5ueSHTMfSppzu_Q&usqp=CAU",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/d499fb76-50ee-43e7-afb5-da4b63615b35/2.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/c/ce/2006-2008.png/revision/latest?cb=20240220175353", BABY FIRST
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/d3fd3299-c060-4e20-abea-6e32aaeaf04b/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", Alien nation
+https://linear-888.frequency.stream:443/dist/xumo/888/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOGKtVLP1JHHXvWgp9YaZ-cEtnu1_VgWdPwGxjzEIOXDhUDLJbnOkgbSN&s=10", COPS
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com:443/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/../../../manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/de3ab911-a242-40a0-a9f6-e9b4cd7c37b1/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolywm2yzxfQBv1aYFDB5JlvlWGvIl_ejhbMPUkbA2Ti3Jkz7M0j13nNF3&s=10", BAD GIRLS CLUB
+https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com:443/live/master_5.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", Billards+
+https://streams2.sofast.tv:443/WiseM3U8_18/sofast/cleanhls/bitrate2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelTDnRQF_1Nu9ECZS_MHxBI98SiGuVi6Z7AR_Be5o6khTK6qeFbj9ajM&s=10", CBN EN ESPAÑOL 
+https://bcovlive-a.akamaihd.net:443/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/../../us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj918KYYdLt4drSnAut3wi_BTYcmJ_ICTpA&usqp=CAU", WILDEARTH uk
+https://wildearth-xumo.amagi.tv:443/masterR1080p.m3u8
 #EXTINF: -1  group-title="ENTRETENIMIENTO" tvg-logo="",Golf channel
 https://v1.thetvapp.to:443/hls/GolfChannel/tracks-v1a1/mono.m3u8
 
