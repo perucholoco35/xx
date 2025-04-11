@@ -5082,6 +5082,27 @@ https://linear-253.frequency.stream:443/dist/glewedtv/253/hls/master/playlist_19
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="",BOX GAME
 https://cce.noisypeak.com:443/hls/MU2JNNY/5FEEAC56B515/m.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", TELEVICENTRO 
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-dai/b3c785ac3a2f40f091a7e16330a41949/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6287fda8ea3b8b397d1ca2ed/31427d24-847e-48b7-8182-6b6f200e4d94/0.m3u8?aid=6287e30daf2b5f36b3fd330a&uid=Lp8sSYRWkkM2jy7usmi4K6OzFzVa5T7x&sid=dsbIDrCrLh3kAbQf3eBTG1G5yBs7nDTQ&pid=ajX3EF4PzJ0DshHAmhEO0nXR3oOjGmOP&ref=https%3A%2F%2Fwww.televicentro.com%2F&without_cookies=false&listenerid=&dnt=true&es=pe-p1-p-e-xm1.cdn.mdstrm.com&ote=1744372753546&ot=ijh93v-nlBVoiLjayjevcQ&proto=https&pz=us
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", FOX SPOTS 2 USA
+https://v1.thetvapp.to:443/hls/FoxSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", FRANCE 24 EN ESPAÑOL 
+https://a-cdn.klowdtv.com:443/live2/france24sp_720p/chunks.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", FUBO SPORT
+https://apollo.production-public.tubi.io:443/live/ac-fubo/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=a3c49add-6ed9-4de2-b563-dc5ad055a5f4&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=276b90c0bee73e21889e77a3914dfc0e
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", FX MOVIE
+https://v1.thetvapp.to:443/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", GOAL TV USA
+https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
+
 #EXTINF: -1 group-title="STREAMING"tvg-logo="https://i.postimg.cc/PJFGn30x/7adedaa6-c621-4641-9d9e-ea98d95c729a-profile-image-300x300.png", EL ZEEIN
 https://sae13.playlist.live-video.net/v1/playlist/CrcFQZA8iYU1rx21ek6fLRo8Bi8M5v5-TZEbGA1vXuBVBJlmaPOtUbsJq9BzYo7WvECVIAMpFM9wRn9bHepk0nN7O7dlP1Ls91_gIad0fnHm84B4WU6axZep8krwbadkbQck_32M2PMgeM_9FWSsVuc3BTUKc6jv1WVBmgh9j1nmXACxUed6XKINaAX0oUfdiHFaM7JluCwQ-ZfxY1jkvUK3c2QLfJ1UeUm066kkFhx2nRKHK8IZfA9GLY66ropYoWE0ZoLUSiRGRQT4kUufv_xIP5WfMjNcA-JzGr2nm4l_fx5GzeOF5rwTubh9Osugu1yEu-xofEme1Exztug4TKheYBd-cDnqAETN3eLPcvuMH7KYwtFj5tAVIBakaBip-5g2ox8Y-BtubWFKaA3G8vuGvw-vMWu99evpFjHb_ycG_BYHl3ppDqc38kRZ9Cpsh7v6QSCE1D_Oerd3uhTDP5nh-59_OmHijn7_UnVPGIl_d865Gxz4B1FccktugVOtnN1vciIhWJAOsE6KI2A76htacuJXSaHuPA4ZYYB2HD8wmYrXTR4hen-noJPnbH77Gp2At8nKZRR9F9iSoy2BtG-JLd_I_OBF1aLAoWYn9cn_Aao4pR5NnWEpu9SD-IE0VBaWtON184Qfu2ct2PeEVBMubJLiz9hZI9jK276EwYwNnbVh6mpbOBHa--Hz97piDDrudkAxLcmyhmmh4yIY7gTazLOecF0a4lF11T3P1bsXKk0I32oxwjFxCHeyy-4DSAmmlZuaPAtRUS8NsiGQ249hDPGluCUpdQtDYwA3SESHqyNWTsHh6LIiX4_dcuyB4Tzrd9EbOl4pjRyxk7lFaY59GZDuzkQEkKAWkb3KeN4QbJiS8v7j8GzIZeMnlxNHfvBI07-GEnr2q8egM39402zSwYMBpa9wsD4aDK0xyGemjwF4Xf4xmCABKgl1cy1lYXN0LTIwgAw.m3u8
 #EXTINF: -1 group-title="STREAMING"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wQcAQDJMz91wRd6n1vPOA05fY81d0tl9tg&usqp=CAU", CHALESELCRACKK
