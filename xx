@@ -5163,7 +5163,23 @@ https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOTfDDiATbKR6uK5F5V55hfmeJ8Q6dyeClA&usqp=CAU",TBD
 https://fast-channels.sinclairstoryline.com:443/TBD/index_1.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbobyEPiRQUq_VhSaoW7L9EW7081wa48ySkvWQPQvy9iZMEZoD3p9TjnU&s=10",TELEMUNDO NOTICIAS 
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com:443/live/master_5.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_ygKel9_Yu9i3MMALUdnBV8WFdQ9AcO_YmMDOV314BL3cd30Fm7hTZXM&s=10",THE PET COLLECTIVE
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/e61c7287-aeba-417a-a455-a3fa1ce51ab8/0.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3f_MU31cyaOZv7LgjTMQfL0VR2zKPQP-p6WIj3DAWVfx3qTmMtGDlpHkz&s=10",RCN MAS
+https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6zJAXxrNhOokHVxVoyZd16RMIKRGBBtLtpof4mxCmmruMYZRFbexjEE&s=10",RED + COL
+https://inforedvos.lcdn.claro.net.co:443/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5oNu8mcEVEQCYkfR0tL9H-J3XAgtRDJt6jPwbkbLa3CF1HYNQuOVlQpF&s=10",CGTN DOCUMENTARY
+https://english-livebkali.cgtn.com:443/live/doccgtn_0.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_SBvsEh7JK800FOD7lImDNDGQJO6640aEg9ocyjxIn_iSVpXHm0xBGM3&s=10",ARIRANG KOREA
+https://amdlive-ch02-ctnd-com.akamaized.net:443/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://i.postimg.cc/TwRTtV1T/image.jpg", RADIO OVACIÓN 
