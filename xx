@@ -5142,7 +5142,26 @@ https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.motorsport.tv/images/channel/id413/featureImage/8ee579bcc6934eb90f61b47f30fbac79ec94e5f3-1920.jpg", NASCAR
 https://aegis-cloudfront-1.tubi.video:443/4e6d2330-f93e-4068-b795-9f8585640b13/1080p-cc/index.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy9eNceduL5dla8KIHpr8oKkI0Eq-b1sk2ObKCFkjWrDNoRZXhYgDDYo0Z&s=10",ORIGIN SPORT
+https://raycom-originsports-firetv.amagi.tv:443/1080p-cc/index.m3u8
 
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uaIjGT5-1BR3kf_rinGY_ds-Tt2ewJxoUw0rHwqOAjR2syaSBHKicQo&s=10",RACING AMERICA
+https://livetv-fa.tubi.video:443/racing-america/playlistR1080p.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cs1iBhFo3KIc-0sh1R87n-1GDlqpNpTJ4DRJNAwrK_vSg3-5PrVLNbCo&s=10",SCI-FI WORLD
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/a1090540-e6dc-4953-9bab-d3eea36fe78e/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/thumbnail.jpg",SONY CANAL COMPETENCIAS 
+https://spt-competencias-1-us.xumo.wurl.tv:443/4300.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotBxnYaPOxWsTnHJ6nwbL2HjCiHlsdpgGE_wZy73Vsmiu8hr47rYhcLc&s=10",SPEED SPORT 1
+https://linear-599.frequency.stream:443/dist/stirr/599/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/kXzWqr79/unnamed-1.jpg",SPORT FISHING TV
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/152803ca-0aca-44f2-b1ae-1ad8f31924ce/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOTfDDiATbKR6uK5F5V55hfmeJ8Q6dyeClA&usqp=CAU",TBD
+https://fast-channels.sinclairstoryline.com:443/TBD/index_1.m3u8
 
 
 
