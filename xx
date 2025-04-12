@@ -5096,14 +5096,56 @@ https://stream.ads.ottera.tv/cl/250410cvrshkgch1a6pottmk3g/1280x720_2809479_0_f.
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", SONY CINE
 https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", DISNEY XD EAST USA
-https://v1.thetvapp.to:443/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVmplplWmkkp1fukjbzzjBOMyJdV3mz7S1A&usqp=CAU", DOCUVISION 
+https://streams2.sofast.tv:443/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/bitrate2.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="", DISNEY JR EAST USA
-https://v1.thetvapp.to:443/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IJg8Z0R6iOlBBCNCKtKN2l7DKlVGGzPiZnh2V2IdihrISa_P_eII3yc&s=10", ESTRELLA NEWS 
+https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBILbUB8A3voqcq_2mXzWgD2VmP2-aBZdMSw&usqp=CAU", ESTRELLA TV
+https://estrellatv-oando.amagi.tv:443/playlistR1080p.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcqoURvOerBYIBvd3S8jBNW9agNTUxtuxidIDLEet7wUgQUzLLVncUQDZ&s=10", ESCAPE TV
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/af7ad15b-e98c-4e6a-9ef0-34e5cb4e9b03/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3TfSeapVQ6tJ8HXGddOCRCVHgE1zCYAaWdHAsYjooFRN39pkBY7n8Uk&s=10", FORK & FLIGHT
+https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv:443/1080p/index.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJu2HzLShygTZP-p-C2dUgWlDcKXe0Kippw&usqp=CAU",MLB
+https://livetv-fa.tubi.video:443/mlb3/playlist_1920x1080.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOROqa9O7Ac_plb28vRx9aJq4HOtPNRQBUpCsdRNqugrzWSI-4x7hO1SC&s=10",Go usa
+https://brandusa-gousa-1-in.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/thumbnail.jpg",HOMEFUL
+https://aegis-cloudfront-1.tubi.video:443/36785f5f-4e63-4cca-a16a-c8b309af0287/1080p-cc/index.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_Xshnpa408UzKb5HqnP4hM_22bdIanyxpw&usqp=CAU",HOPE CHANNEL AFRICA
+https://cdn-us-dca.b-cdn.net:443/hcorg_33O0ldvawCD/s/jsl_i1onRBELcGV/1080p/main.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJx5Z2xYemW0jKaPo5V7UkVq99fXmHIZb3Q&usqp=CAU",IMPACT PLUS
+https://d2tuwvs0ja335j.cloudfront.net:443/hls/1080p/playlist.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g8g0s3957EHQbxwfZ0s_-3hMDtd4rcGNcUt5HoQxaq-Y1sJAfPZXHxs&s=10",KIDFO+
+https://streams2.sofast.tv:443/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/bitrate2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_N0QEXWR6oAyx9PGz_pAYDUOo63wYlsSTZgQ628RvVZjhVhOAaErdxM&s=10",MMA TV
+https://streams2.sofast.tv:443/vglive-sk-462904/tracks-v1a1/mono.m3u8?hls_proxy_host=fcf2a4d016d46058e02842aa89871fce
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWx6Zd2WLsnObKKYSVyWOsffQNCCDWH6KyUI91mohcdoLRHlJ9QB5vsv1&s=10",MOTOR RACING
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/272a9d39-ee31-43da-908f-7708ccf38e2f/2.m3u8
 
 
-https://sae12.playlist.live-video.net/v1/playlist/CrcFzd7h9RUGXAU8cdtaUBkdtB3ZWfdlZPyHED34Z0yHVFRlAtCPfzwD7YKFGhnsbpS8s-ZLC8xEUZHaqz53PijI0hxj1yHRsZEP59o39GNd8ghKv8Fybdc5GhwiPYZPIQdzaH0Oi2hcFndwCjaCaXuaNCQdkMKDPHVhZIOt-Dhn_KSs6X_N05zSmL1tbLSUcW0-WUBKFrlyPZNQQqkZlkX_UTqwhqJYDk7F3WWvqcxDx7gkpKR77Zzq52I2Za7idvwMu8znvBfrojjx6tpO_FYan5cqVbtE-1i__6BuOmFA4kC0ro4vj6711ZVF6JiLJ3cszvx2HgmfxNKliFdFBnJTnnCwfto0BK6lYKjirJaZQW6N9nnli8wTlfWp8uOGoXwsbSmbgRkHllZs8LoG7hBPH3Zre-wqYsf3Kg--YN0OZz5CbWpqtuK_AWk9F-HK-zgkMf-ZVoqbe-fEFhrZrRdPz92ITCFcfyWQIZUGdqxbJzgGzHHYk3AgYx5vK_YHK8vWLidMbwhS8L4EvzEWmHZVRUhkH0yLF_NVQHztir3cagX5EF4uBCrA0EEro_MbzW_bfFvvgH8fsI60uaGRy5HNcbaFgqIoQiO5PruO4l8jdeFBHZhmD8_6mCvdb-nG2xLh5JgiNW0q7trNQ5f-rQSOgfldenidj74z0rHxslO0UOq2mE4OIdTT6H9g7z3vQ_P3FyxcNuOYhrOVeLU0Rgi7HGeOAaGkIGM2mF-tEJ1NR-AxDdl3x_QPZT8A9FvnY03OrMy_wIH2AiQ4W6Ry4Dfhlm2fo8o3Bzr8cRs9vQJt6pUoGY7JcJzHr2zI51GjM2Bgrupr9j_2RtZCK7X-RGofQTuKCGC_OFRPdGvYSKVlBJVKOVnJqISyiH4ktElRVVE0-dzbralfnh_HNnqTxrxczNb9rQIy8PEaDFGpZnuXStyZZNQJYiABKgl1cy1lYXN0LTIw4Qs.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI92RbRhhuCaYIkDx13BFG83pIKl5FU4eXNvtf6xGVJaPzOib1XIJptVv&s=10",MUNDO SERIES 
+https://streams2.sofast.tv:443/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/../../../manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/f70fc0af-af1c-42c4-9869-56f147d3fd5c/2.m3u8
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.motorsport.tv/images/channel/id413/featureImage/8ee579bcc6934eb90f61b47f30fbac79ec94e5f3-1920.jpg", NASCAR
+https://aegis-cloudfront-1.tubi.video:443/4e6d2330-f93e-4068-b795-9f8585640b13/1080p-cc/index.m3u8
+
+
+
+
+
 
 #EXTINF: -1, tvg-logo="https://i.postimg.cc/TwRTtV1T/image.jpg", RADIO OVACIÓN 
 https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
