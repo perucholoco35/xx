@@ -4974,19 +4974,19 @@ https://g3.mc-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiaET566B0I1hSxVWFwtphKAzUSgMdqboj-ZSu1b5WxqP6bSF23FILuai&s=10", CANAL 6 EL SALVADOR 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFuRafNJdJz6MQckYNkwad502mK6ui8tHl1Avo9csErtpLXzMchKQkHk9&s=10" BOLIVIA TV
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFuRafNJdJz6MQckYNkwad502mK6ui8tHl1Avo9csErtpLXzMchKQkHk9&s=10", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSv00FK1nDDXKUw70-6EfwR8wP21AYGfLZw&usqp=CAU" ECUADOR TV
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSv00FK1nDDXKUw70-6EfwR8wP21AYGfLZw&usqp=CAU", ECUADOR TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxntquyPsLv689aCpqE3UWoDwuVtWlL9-aNg&usqp=CAU" ECUAVISA 
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxntquyPsLv689aCpqE3UWoDwuVtWlL9-aNg&usqp=CAU", ECUAVISA 
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=2d09aa07bba12b1e23bd90b8e7b8adee&sid=ba5t1l1xb239554379867dd0605aff71&ndvc=0
 
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/T2N15d71/anixe-hd-logo-png-seeklogo-314975.png", ANIXEHD
 https://wow.anixa.tv:443/live/anixehd2/chunklist_w1714279715.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/85HDSH3s/NHK-World-svg.png" NHK WORLD 
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/85HDSH3s/NHK-World-svg.png", NHK WORLD 
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", DW ALEMANIA ESP
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
