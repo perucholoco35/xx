@@ -29,7 +29,6 @@ https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
 
 
-
 #EXTINF: -1 group-title="PELÍCULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cig4rH75Dm-FJOLifPw3R0T3FLbPUxoa_-QetShZvu78gbhyELRpD0M&s=10", 2 LADRONES Y MEDIO (2006) 9gb
 https://drive.usercontent.google.com/download?id=1Vr9GkcpnFkqcKy5OogrHjLyJygwY-8jZ&export=download&authuser=4&confirm=t&uuid=36a77f53-f2f8-412b-a739-aa1c4b6381b7&at=APcmpowiTpN2F93Cxu5HYnbGlTaq:1745980130155.mkv
 #EXTINF: -1 group-title="PELÍCULAS" tvg-logo="https://i.postimg.cc/9QNsmFyh/19862154.jpg", 2 VIAJE AL CENTRO DE LA TIERRA: LA ISLA MISTERIOSA (2012) 6gb
@@ -827,7 +826,8 @@ https://drive.usercontent.google.com/download?id=13voLNiV28WjAVItHXnYR84t_8DYWOy
 
 
 
-
+#EXTINF: -1 group-title="PELÍCULAS ANIMADAS EN 2D"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLpNVxKkIHjILuTD-dgTu0d-2WuwuLOgRXtdVSozUoCT29FHXKBhweY9F&s=10", HARU EN EL REINO DE LOS GATOS (2012)
+https://drive.usercontent.google.com/download?id=1Ji1bQ7MfamMTr22Doc6ce0nK-eucnLgK&export=download&authuser=0&confirm=t&uuid=a2dacb01-67e4-41eb-9141-1b33935857dc&at=APcmpowjprx14vUIm2o4M9IOPBGY%3A1746424257319.mkv
 #EXTINF: -1 group-title="PELÍCULAS ANIMADAS EN 2D"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEayPOyTqSe7kvbNNGOgag-ia2WRlgWoexQc81DNIUlyCQfUS8426FsIiZ&s=10", EL DÍA QUE LA TIERRA EXPLOTÓ (2024) 5.9gb
 https://drive.usercontent.google.com/download?id=1q1INBcgJ8m3iOAg1HxwaAcaFaqTnhij4&export=download&authuser=0&confirm=t&uuid=7bc0ccaf-336a-45f9-993f-40b56f578ff0&at=APcmpowW10O1Qc6Eo3_qgAC701QP:1745698904365.mkv
 #EXTINF: -1 group-title="PELÍCULAS ANIMADAS EN 2D"tvg-logo="https://i.postimg.cc/xjLsYZbQ/the-witcher-sirens-of-the-deep-598550764-large.jpg", THE WITCHER SIRENAS DE LAS PROFUNDIDADES (2025) 4.3gb
