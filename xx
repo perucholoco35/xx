@@ -5431,12 +5431,6 @@ http://higherpro.xyz:8080/live/jose356890/356890jose/57053.m3u8
 #EXTINF:-1, group-title="Deportes", FOX SPORT PREMIUM TV LIBRE
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yN5EGMxUTZ2AzM3YTLlVWN50CZ3EDNtIDZkhTLwkDN1ITNzkzL.m3u8
 
-#EXTINF:-1 tvg-id="supertennis" group-title="Deportes",tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="Deportes",SuperTennis HD
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-
-#EXTINF:-1 tvg-id="sky-sport-f1-it" group-title="Deportes", Sky Sport F1 [IT]
-https://bl.rutube.ru/livestream/920a9c2aa19
-
 
 
 
