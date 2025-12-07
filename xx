@@ -5844,8 +5844,8 @@ https://aegis-cloudfront-1.tubi.video:443/4e6d2330-f93e-4068-b795-9f8585640b13/1
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy9eNceduL5dla8KIHpr8oKkI0Eq-b1sk2ObKCFkjWrDNoRZXhYgDDYo0Z&s=10",ORIGIN SPORT
 https://raycom-originsports-firetv.amagi.tv:443/1080p-cc/index.m3u8
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uaIjGT5-1BR3kf_rinGY_ds-Tt2ewJxoUw0rHwqOAjR2syaSBHKicQo&s=10",RACING AMERICA
-https://livetv-fa.tubi.video:443/racing-america/playlistR1080p.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uaIjGT5-1BR3kf_rinGY_ds-Tt2ewJxoUw0rHwqOAjR2syaSBHKicQo&s=10", DISCOVERY EN ESPAÑOL 
+http://206.212.244.71:8080/live/Abxc5k/363887/57645.ts
 
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/thumbnail.jpg",SONY CANAL COMPETENCIAS 
 https://spt-competencias-1-us.xumo.wurl.tv:443/4300.m3u8
