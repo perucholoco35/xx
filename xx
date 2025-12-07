@@ -5285,8 +5285,6 @@ https://drive.usercontent.google.com/download?id=1KcnfrLG1Lwzz1IN5yv_fcAI9alJ3fb
 https://drive.usercontent.google.com/download?id=1VnY6llcFPjY1rqM79b08NWH0TOVPDzV2&export=download&authuser=2&confirm=t&uuid=a3c146d4-b09f-4ded-b3f0-ecc84ae4a8fc&at=AENtkXbdgWdSNgC_Rg5oQXmvR--n:1730446288323.mkv
 #EXTINF: -1 group-title="DOCUMENTALES"tvg-logo="https://i.postimg.cc/bvxyVbpM/image.jpg", ✓C3 EL REINO DEL LOBO BLANCO 
 https://drive.usercontent.google.com/download?id=1E2B1uY8YtmvUDoxo9xrPgagmvQmHYo2i&export=download&authuser=2&confirm=t&uuid=3619ab18-62a9-4e9c-b987-eed6053a2ca0&at=AENtkXa9MhiSynEWfHqAidpKp9oi:1730446367009.mkv
-#EXTINF: -1, TV
-https://live.telelatinohd.com:8080/MzguMjUuMTguMjUz/402_.m3u8?token=ixIi9LxuoPoXt1Dsj0y2RQ&expires=1691474897
 
 
 
@@ -5677,18 +5675,21 @@ https://english-livebkali.cgtn.com:443/live/doccgtn_0.m3u8
 #EXTINF: -1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_SBvsEh7JK800FOD7lImDNDGQJO6640aEg9ocyjxIn_iSVpXHm0xBGM3&s=10",ARIRANG KOREA
 https://amdlive-ch02-ctnd-com.akamaized.net:443/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
 
+#EXTINF: -1, group-title="ENTRETENIMIENTO" tvg-logo="",TV
+https://live.telelatinohd.com:8080/MzguMjUuMTguMjUz/402_.m3u8?token=ixIi9LxuoPoXt1Dsj0y2RQ&expires=1691474897
 
-#EXTINF: -1, tvg-logo="https://i.postimg.cc/TwRTtV1T/image.jpg", RADIO OVACIÓN 
+
+#EXTINF: -1, group-title="RADIO"tvg-logo="https://i.postimg.cc/TwRTtV1T/image.jpg", RADIO OVACIÓN 
 https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
-#EXTINF: -1, tvg-logo="https://i.postimg.cc/ncDQymmr/Bon-Jovi-Runaway.jpg", RUNAWAY BONNJOVI
+#EXTINF: -1, group-title="RADIO"tvg-logo="https://i.postimg.cc/ncDQymmr/Bon-Jovi-Runaway.jpg", RUNAWAY BONNJOVI
 https://drive.usercontent.google.com/download?id=1hKxt5diM0P94gVYN8mIGnAyozRnNYFEo&export=download&authuser=1&confirm=t&uuid=e1044e8c-13d1-4128-b1ba-d4a4d2781084&at=AEz70l6nLCuhFIVExLFl6LtsCFkc:1742366593471
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9XSCMWjB/image.jpg", RADIO EXITOSA 
+#EXTINF: -1 group-title="RADIO"tvg-logo="https://i.postimg.cc/9XSCMWjB/image.jpg", RADIO EXITOSA 
 https://cpliv3.onliv3.com/stream/radioexitosa
-#EXTINF: -1, RADO REGGAE 
+#EXTINF: -1, group-title="RADIO", RADO REGGAE 
 https://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3
-#EXTINF: -1, K-ROCK usa
+#EXTINF: -1, group-title="RADIO", K-ROCK usa
 https://crystalout.surfernetwork.com:8001/KMKF_MP3
-#EXTINF: -1, ROCK 94.7 FM usa
+#EXTINF: -1, group-title="RADIO", ROCK 94.7 FM usa
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC.aac
-#EXTINF: -1, 141 raGGae usa
+#EXTINF: -1, group-title="RADIO", 141 raGGae usa
 https://hestia2.cdnstream.com/1301_128
