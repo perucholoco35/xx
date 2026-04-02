@@ -6207,6 +6207,9 @@ https://lima.crackstreamslivehd.com:443/espn5/tracks-v1a1/mono.m3u8?ip=38.250.15
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/90FchHbK/images-6-10-28.png", ESPN 15/5
 http://tv.nuevadomi.com:8080/live/munozalejo1/mwbCYcyQhu/9521.m3u8
 
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/90FchHbK/images-6-10-28.png", ESPN 3/8
+http://infinitisurl.com:8080/live/Tabrajzt2023/SAVQctYLajcn/527503.m3u8
+
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/9FbqZcsR/images-1-2-28.png", ESPN 2 15/5
 http://tv.nuevadomi.com:8080/live/munozalejo1/mwbCYcyQhu/9526.m3u8
 
@@ -6242,8 +6245,9 @@ http://pirostv.lat:8080/live/9611544601/9a92e799056a2441/267392.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/59P9bjzt/images-2-28.png", DIRECTV 1 3/8
 http://infinitisurl.com:8080/live/Tabrajzt2023/SAVQctYLajcn/527497.m3u8
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2
 
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 3/8
+http://infinitisurl.com:8080/live/Tabrajzt2023/SAVQctYLajcn/527499.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 televisión libre osta
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlJjYzADNiVGM3kTL1kzN50iM4EGNtADOwcTLxMTMjFTOyQzL.m3u8
