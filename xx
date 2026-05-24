@@ -4911,6 +4911,9 @@ http://infinitisurl.com:8080/live/Tabrajzt2023/SAVQctYLajcn/527503.m3u8
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/9FbqZcsR/images-1-2-28.png", ESPN 2 15/5
 http://tv.nuevadomi.com:8080/live/munozalejo1/mwbCYcyQhu/9526.m3u8
 
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MTRtJxSD/images-15-11-34.png", EUROSPORT 1 cuenta 
+http://pirostv.lat:8080/live/9611544601/9a92e799056a2441/312589.m3u8
+
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/DwFHP9YP/images-22-14.png", TENNIS CHANEL cuenta 
 http://pirostv.lat:8080/live/9611544601/9a92e799056a2441/1261.m3u8
 
@@ -5026,9 +5029,6 @@ https://zekonew.koskoros.ru/zeko/premium372/mono.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MHgZJRJc/images-11-6-13-14-36.png", GOLF Channel higherpro
 http://higherpro.xyz:8080/live/991755392tv/sct94mdprv/549.m3u8
-
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MTRtJxSD/images-15-11-34.png", EUROSPORT 1 ing higherpro
-http://higherpro.xyz:8080/live/971467548tv2/808pyeu/577.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MTRtJxSD/images-15_(11)_(34).png", EUROSPORT 1 ESP higherpro
 http://higherpro.xyz:8080/live/971467548tv2/808pyeu/247838.m3u8
