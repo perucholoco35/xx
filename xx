@@ -4914,6 +4914,9 @@ http://tv.nuevadomi.com:8080/live/munozalejo1/mwbCYcyQhu/9526.m3u8
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/9FbqZcsR/images-1-2-28.png", ESPN 2 deportflix
 https://cgxheq.fubohd.com/espn2/mono.m3u8?token=7fe6e08790a631418a219ea810af12b4fb26ef90-15-1779632665-1779614665
 
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/7Yn3xF49/images-1-2-29.png", ESPN 2 cuenta
+http://pirostv.lat:8080/live/9611544601/9a92e799056a2441/262175.m3u8
+
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM televisión libre osta
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
 
@@ -4925,6 +4928,10 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjIzMTU2
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MpXv18T0/images-1_(8)_(37).png", ESPN 3 deportflix
 https://cgxheq.fubohd.com/espn3/mono.m3u8?token=0817277e7645ee2d00dcd9e992cefae4facd5d37-12-1779633012-1779615012
+
+#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/MpXv18T0/images-1_(8)_(37).png", ESPN 3 cuenta 
+http://pirostv.lat:8080/live/9611544601/9a92e799056a2441/244641.m3u8
+
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/GmgDj61L/download-35.png", FOX SPORT 1 televisión libre osta
 https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iY4gDMwIWZiR2MkNWLzETO50CNihDNtYzMzMWL2YDOykjYzEzL.m3u8
@@ -4995,8 +5002,6 @@ https://director.taihotel.asia/v3/director/VE1MjM0N2M5ZGMyYTU5LTIwMjktNDc4NC03Nz
 #EXTINF:-1 group-title="Deportes"tvg=logo="https://i.postimg.cc/mgBW8Qqd/images-18-35.png", SKY LIGA Española futbollibreshd
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Yjk3NGExZTE2YjY3LTEyMWEtN2Y3NC00NTFhLTkxYjY3MGQx/master.m3u8?md5=GTLBbY0OrPQZ6Sa5vX0mzQ&expires=1741351137
 
-#EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/7Yn3xF49/images-1-2-29.png", ESPN 2 higherpro
-http://higherpro.xyz:8080/live/jose356890/356890jose/506.m3u8
 
 #EXTINF:-1 group-title="Deportes"tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM higherpro
 http://higherpro.xyz:8080/live/jose356890/356890jose/542.m3u8
